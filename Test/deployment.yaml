@@ -19,4 +19,4 @@ spec:
         image: gitopsbook/sample-app:v0.1
         name: sample-app
         ports:
-        - containerPort: 8080
+        - containerPort: 8082
